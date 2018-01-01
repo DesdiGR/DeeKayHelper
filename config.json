@@ -1,7 +1,7 @@
 {
   "token": "BOT_TOKEN",
-  "mailGuildId": "MAIL_GUILD",
-  "mainGuildId": "MAIN_GUILD",
+  "mailGuildId": "397128812766167040",
+  "mainGuildId": "397108193072775188",
 
   "status": "Message me for help!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
