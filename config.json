@@ -1,5 +1,5 @@
 {
-  "token": "BOT_TOKEN",
+  "token": "process.env.BOT_TOKEN",
   "mailGuildId": "397128812766167040",
   "mainGuildId": "397108193072775188",
 
